@@ -1,0 +1,5 @@
+{
+    "userpass":"$userpass",
+    "method":"order_status",
+    "uuid":"$1"
+}

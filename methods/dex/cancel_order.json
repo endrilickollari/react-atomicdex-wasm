@@ -1,0 +1,6 @@
+{
+    "userpass":"$userpass",
+    "method":"cancel_order",
+    "uuid":"$1"
+}
+

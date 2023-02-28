@@ -1,0 +1,6 @@
+{
+    "userpass":"$userpass",
+    "method":"my_recent_swaps",
+    "limit":10
+}
+

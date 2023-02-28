@@ -1,0 +1,5 @@
+{
+    "userpass":"$userpass",
+    "method":"my_balance",
+    "coin":"$1"
+}
