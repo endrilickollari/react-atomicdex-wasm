@@ -1,0 +1,8 @@
+{
+    "userpass": "$userpass",
+    "method": "unban_pubkeys",
+    "unban_by": {
+        "type": "All"
+    }
+}
+

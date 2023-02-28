@@ -1,0 +1,8 @@
+{
+    "userpass":"$userpass",
+    "method":"update_maker_order",
+    "uuid":"$1",
+    "new_price":"$2",
+    "volume_delta":"$3"
+}
+
