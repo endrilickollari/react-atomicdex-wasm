@@ -1,0 +1,8 @@
+{
+    "userpass":"$userpass",
+    "method":"sell",
+    "base":"$1",
+    "rel":"$2",
+    "price":"$3",
+    "volume":"$4"
+}
