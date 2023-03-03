@@ -1,1 +1,1 @@
-{"userpass":"$userpass","method":"my_tx_history","coin":"$1","limit":10}
+{"userpass":"testpsw","method":"my_tx_history","coin":"$1","limit":10}

@@ -1,6 +1,6 @@
 {
 	"mmrpc":"2.0",
-	"userpass":"$userpass",
+	"userpass":"testpsw",
 	"method":"orderbook",
 	"params": {
 		"base":"$1",

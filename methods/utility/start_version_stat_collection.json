@@ -1,7 +1,7 @@
 {
     "mmrpc": "2.0",
     "method": "start_version_stat_collection",
-    "userpass":"$userpass",
+    "userpass":"testpsw",
     "params": {
         "interval": 300
     }

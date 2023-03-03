@@ -1,6 +1,6 @@
 {
     "method": "get_current_mtp",
-    "userpass": "$userpass",
+    "userpass": "testpsw",
     "mmrpc": "2.0",
     "id": 2,
     "params": {

@@ -1,12 +1,9 @@
-
-
 {
-    "userpass": "$userpass",
+    "userpass": "testpsw",
     "mmrpc": "2.0",
     "method": "task::init_trezor::status",
     "params": {
-        "task_id": 1,
+        "task_id": 0,
         "forget_if_finished": false
     }
 }
-

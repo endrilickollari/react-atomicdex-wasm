@@ -1,6 +1,6 @@
 {
     "mmrpc": "2.0",
-    "userpass": "$userpass",
+    "userpass": "testpsw",
     "method": "task::withdraw::status",
     "params": {
         "task_id": 1,

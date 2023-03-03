@@ -1,6 +1,6 @@
 {
 	"mmrpc":"2.0",
-	"userpass":"$userpass",
+	"userpass":"testpsw",
 	"method":"best_orders",
 	"params": {
 		"coin":"$1",

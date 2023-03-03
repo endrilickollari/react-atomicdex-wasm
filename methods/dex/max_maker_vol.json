@@ -1,5 +1,5 @@
 {
-  "userpass": "$userpass",
+  "userpass": "testpsw",
   "mmrpc": "2.0",
   "method": "max_maker_vol",
   "params": {

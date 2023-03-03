@@ -1,6 +1,6 @@
 {
     "mmrpc": "2.0",
-    "userpass": "$userpass",
+    "userpass": "testpsw",
     "method": "trade_preimage",
     "params": {
         "base":"$1",

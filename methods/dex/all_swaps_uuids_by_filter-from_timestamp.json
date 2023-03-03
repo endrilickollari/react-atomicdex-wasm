@@ -1,5 +1,5 @@
 {
-    "userpass":"$userpass",
+    "userpass":"testpsw",
     "method":"all_swaps_uuids_by_filter",
     "my_coin":"RICK",
     "from_timestamp":1611705600

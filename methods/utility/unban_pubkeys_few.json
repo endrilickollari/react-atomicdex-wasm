@@ -1,5 +1,5 @@
 {
-    "userpass": "$userpass",
+    "userpass": "testpsw",
     "method": "unban_pubkeys",
     "unban_by": {
         "type": "Few",

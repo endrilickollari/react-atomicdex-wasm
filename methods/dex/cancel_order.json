@@ -1,5 +1,5 @@
 {
-    "userpass":"$userpass",
+    "userpass":"testpsw",
     "method":"cancel_order",
     "uuid":"$1"
 }

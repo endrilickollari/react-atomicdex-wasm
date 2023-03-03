@@ -1,5 +1,5 @@
 {
     "method":"min_trading_vol",
     "coin":"$1",
-    "userpass":"$userpass"
+    "userpass":"testpsw"
 }

@@ -4,7 +4,7 @@
 
 
 {
-  "userpass": "$userpass",
+  "userpass": "testpsw",
   "method": "verify_message",
   "mmrpc": "2.0",
   "id": 0,

@@ -1,5 +1,5 @@
 {
-    "userpass":"$userpass",
+    "userpass":"testpsw",
     "method":"update_maker_order",
     "uuid":"$1",
     "new_price":"$2"

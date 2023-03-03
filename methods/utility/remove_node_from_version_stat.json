@@ -1,7 +1,7 @@
 {
     "mmrpc": "2.0",
     "method": "remove_node_from_version_stat",
-    "userpass": "$userpass",
+    "userpass": "testpsw",
     "params": {
         "name": "$1"
     }

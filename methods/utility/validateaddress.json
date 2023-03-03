@@ -1,5 +1,5 @@
 {
-    "userpass":"$userpass",
+    "userpass":"testpsw",
     "method":"validateaddress",
     "coin":"$1",
     "address":"$2"

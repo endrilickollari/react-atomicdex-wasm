@@ -1,7 +1,7 @@
 {
     "mmrpc": "2.0",
     "method": "get_raw_transaction",
-    "userpass": "$userpass",
+    "userpass": "testpsw",
     "params": {
         "coin": "$1",
         "tx_hash": "$2"

@@ -1,5 +1,5 @@
 {
-    "userpass": "$userpass",
+    "userpass": "testpsw",
     "method": "task::enable_z_coin::cancel",
     "mmrpc": "2.0",
     "params": {

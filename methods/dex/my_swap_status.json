@@ -3,5 +3,5 @@
     "params": {
         "uuid": "$1"
     },
-    "userpass":"$userpass"
+    "userpass":"testpsw"
 }

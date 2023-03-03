@@ -1,5 +1,5 @@
 {
-    "userpass": "$userpass",
+    "userpass": "testpsw",
     "method": "recover_funds_of_swap",
     "params": {
         "uuid":"$1"

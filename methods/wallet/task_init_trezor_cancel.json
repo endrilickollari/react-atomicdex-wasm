@@ -2,7 +2,7 @@
 
 
 {
-	"userpass": "$userpass",
+	"userpass": "testpsw",
 	"method": "task::init_trezor::cancel",
 	"mmrpc": "2.0",
 	"params": {

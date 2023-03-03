@@ -2,7 +2,7 @@
 
 
 {
-    "userpass": "$userpass",
+    "userpass": "testpsw",
     "mmrpc": "2.0",
     "method": "task::account_balance::init",
     "params": {
